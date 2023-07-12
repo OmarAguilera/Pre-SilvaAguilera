@@ -3,7 +3,7 @@ import { CartWidget } from "./CartWidget"
 let linkStyles = {display: "flex", justifyContent: "center", marginLeft: "35px", fontSize: "20px"}
 let menuStyles = {textDecoration: "none", listStyleType: "none", color: "inherit", marginRight: "10px", color: "brown"}
 
-let general = {display: "flex"}
+let general = {display: "flex", border: "2px dotted white"}
 
 export function NavBar(){
     return (
