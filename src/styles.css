@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(211, 211, 241);
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 40px;
+}
+
+.cart{
+    display: flex;
+    color: salmon;
+}
